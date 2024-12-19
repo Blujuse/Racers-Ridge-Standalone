@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8BDDD4A4-1559-AE29-8D96-FBB865EB210B}</ProjectGuid>
+    <ProjectGuid>{D34E0754-63BF-9FFB-8F7D-9AFEAA55EDAB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,24 +62,18 @@
   <ItemGroup>
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_SongPlayer.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_CameraLag.cs" />
-    <Compile Include="Assets\_VAG_ArcadeAssets\VAG_Scripts\VAG_GameManager.cs" />
-    <Compile Include="Assets\_VAG_ArcadeAssets\VAG_Scripts\VAG_FPSController.cs" />
-    <Compile Include="Assets\_VAG_ArcadeAssets\VAG_Scripts\VAG_SAVEHANDLER.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_WinningCam.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_SnowFollow.cs" />
-    <Compile Include="Assets\_VAG_ArcadeAssets\VAG_Scripts\VAG_LoadingScreen.cs" />
     <Compile Include="Assets\_InputSystem\GameInpuMap.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_SnowboyObstacle.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_CarPlayer.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_Checkpoint.cs" />
     <Compile Include="Assets\_InputSystem\InputSubscription.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_StartMenu.cs" />
-    <Compile Include="Assets\_VAG_ArcadeAssets\VAG_Scripts\VAG_TROPHIES.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_KillBox.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_WinScreens.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_TrophyManager.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_LeaderboardsUI.cs" />
-    <Compile Include="Assets\_VAG_ArcadeAssets\VAG_Scripts\VAG_ArcadeHandler.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_CarAI.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_RaceManager.cs" />
     <Compile Include="Assets\WHA_TimeAttack\WHA_Scripts\WHA_CarAIPath.cs" />
